@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "tabbed-section/tabbed-section",
+  "version": "1.0.1",
+  "title": "Tabbed-section",
+  "category": "design",
+  "icon": "align-pull-left",
+  "description": "Simple block grouping that has a tabbed header",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "tabbed-section",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}
